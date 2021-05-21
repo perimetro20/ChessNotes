@@ -1,0 +1,2 @@
+# ChessNotes
+This is a org-mode notebook in which I wll be storing everything I learn and study in terms of chess.
